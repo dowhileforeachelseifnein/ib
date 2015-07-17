@@ -1,2 +1,2 @@
 # ib
-un imageboard clon de hispita
+Un imageboard clon de hispita
